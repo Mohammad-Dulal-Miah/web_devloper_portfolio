@@ -193,3 +193,10 @@ main {
     text-align: center;
     margin: 130px 0px;
 }
+
+/* footer style */
+footer{
+    display: flex;
+    background-color: #fff8f3;
+    padding: 130px 200px;
+}
